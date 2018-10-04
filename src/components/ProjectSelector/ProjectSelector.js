@@ -1,6 +1,6 @@
 import React from 'react';
 // import ComboBox from '././ComboBox/ComboBox.js';
-import Project from '../Project/Project.js'
+import SelectItem from '../SelectItem/SelectItem.js'
 
 class ProjectSelector extends React.Component {
 	constructor(props){
@@ -13,16 +13,18 @@ class ProjectSelector extends React.Component {
     return (
         <div className='c-comboBox'>
           <select type="select">
-            {
-              this.state.currentProjects
-              .map((project) => {
-                return(
-                    // <option key={project.id}>
-                      <Project project={project} key={project.id}/>
-                    // </option>
-                  )
-              })
-            }
+              {
+                this.state.currentProjects
+                .map((project) => {
+                  return(
+                      // <option key={project.id}>
+                        <SelectItem item={project} key={project.id}/>
+                      // </option>
+                    )
+                })
+              }
+              {/*<AddProject />*/}
+            
           </select>
         </div>
       )

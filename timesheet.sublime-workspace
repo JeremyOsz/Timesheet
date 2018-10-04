@@ -1,0 +1,645 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"project"
+			],
+			[
+				"sub",
+				"submitTimesheet"
+			],
+			[
+				"Tim",
+				"TimesheetEntryForm"
+			],
+			[
+				"A",
+				"AgentSelector"
+			],
+			[
+				"Project",
+				"ProjectSelector"
+			],
+			[
+				"etr",
+				"extractPlugin"
+			],
+			[
+				"Contac",
+				"ContactsList"
+			],
+			[
+				"ma",
+				"marker"
+			],
+			[
+				"m",
+				"mymap"
+			],
+			[
+				"mark",
+				"markers"
+			],
+			[
+				"add",
+				"addTo"
+			],
+			[
+				"data",
+				"datasets"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"yel",
+				"yellowInput"
+			],
+			[
+				"anima",
+				"animateRotate"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"text-decora",
+				"text-decoration-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"align",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 41,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 722,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/TimesheetEntryForm/TimesheetEntryForm.js",
+			"settings":
+			{
+				"buffer_size": 919,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jeremy/Documents/javascript-projects/terrificu/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 1016,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "timesheet.sublime-project",
+			"settings":
+			{
+				"buffer_size": 213,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/ProjectSelector/ProjectSelector.js",
+			"settings":
+			{
+				"buffer_size": 771,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Project/Project.js",
+			"settings":
+			{
+				"buffer_size": 142,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jeremy/Documents/javascript-projects/timesheet",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/components",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/components/Project",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/components/ProjectSelector",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/components/TimesheetEntryForm",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/scss",
+		"/Users/jeremy/Documents/javascript-projects/terrificu/src",
+		"/Users/jeremy/Documents/javascript-projects/terrificu/src/components",
+		"/Users/jeremy/Documents/javascript-projects/terrificu/src/components/App",
+		"/Users/jeremy/Documents/javascript-projects/terrificu/src/components/modals/NewTaskModal",
+		"/Users/jeremy/Documents/javascript-projects/terrificu/src/components/Spinner",
+		"/Users/jeremy/Documents/javascript-projects/terrificu/src/components/Toggle",
+		"/Users/jeremy/Documents/javascript-projects/terrificu/src/scenes/Home",
+		"/Users/jeremy/Documents/javascript-projects/react-for-everyone/my-app/src"
+	],
+	"file_history":
+	[
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/style.css",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/style.scss",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/dist/index.html",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/.babelrc",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/webpack.config.js",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/package.json",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/index.js",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/index.html",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/src/App.js",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/dist/main.js",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/webpack.config.cong.js",
+		"/Users/jeremy/Documents/javascript-projects/timesheet/webpack.base.config.js",
+		"/Users/jeremy/Documents/javascript-projects/react-for-everyone/my-app/new-file",
+		"/Users/jeremy/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/jeremy/Documents/javascript-projects/react-for-everyone/src/App.js",
+		"/Users/jeremy/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Users/jeremy/Documents/javascript-projects/terrificu/.env",
+		"/Users/jeremy/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jeremy/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jeremy/Documents/webdev/Portfolio/untitled.html",
+		"/Users/jeremy/Downloads/Updated Slider/slider.html",
+		"/Users/jeremy/Documents/Monash/Industry exp/mapcoding/maptest.html",
+		"/Users/jeremy/Documents/Monash/Industry exp/mapcoding/maptest.js",
+		"/Users/jeremy/Documents/webdev/plugins/leaflet-search-master/dist/leaflet-search.src.css",
+		"/Users/jeremy/Documents/Monash/data vis/collection-master/processed/usage-example/level2list_AR.json",
+		"/Users/jeremy/Documents/Monash/data vis/collection-master/processed/subjects/level1.json",
+		"/Users/jeremy/Documents/Monash/data vis/collection-master/processed/subjects/level0.json",
+		"/Users/jeremy/Documents/wordCloud",
+		"/Users/jeremy/Documents/presciencesamples/chart_test.js",
+		"/Users/jeremy/Documents/webdev/chart.js sample/Chart.js-master/chart_test.html",
+		"/Users/jeremy/Documents/Web/indexUpload.html",
+		"/Users/jeremy/Documents/Web/scripts.js",
+		"/Users/jeremy/Documents/webdev/bootstrap-3.3.7/README.md",
+		"/Users/jeremy/Documents/Web/myerHeadJS.js",
+		"/Users/jeremy/Documents/Web/headtest.html",
+		"/Users/jeremy/Documents/Web/MyerHead.html",
+		"/Users/jeremy/Documents/Web/myerHeadStyle.css",
+		"/Users/jeremy/Documents/Web/styleUpload.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			":</",
+			"fillIn",
+			"places",
+			"fillIn",
+			"place_",
+			"function(x){\n// \tfor each(x){\n// \t}\n// }\n// markers.addTo(mymap)",
+			"50px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/scss/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"SL.145.region_keys":
+							[
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/TimesheetEntryForm/TimesheetEntryForm.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								852,
+								852
+							]
+						],
+						"settings":
+						{
+							"SL.146.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/jeremy/Documents/javascript-projects/terrificu/webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "timesheet.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/ProjectSelector/ProjectSelector.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"SL.167.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/components/Project/Project.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"SL.180.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "timesheet.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
